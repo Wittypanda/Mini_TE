@@ -3,11 +3,12 @@ import time
 from IPython.core.display import clear_output
 from spotipy import SpotifyClientCredentials, util
 
+#Kindly use the following details of your spotify and spotify developers account to implement the project 
 
-client_id='3650c50af063425889620edf0df858f5'
-client_secret='3b74b6c45a6e451a9476d5c847564cc5'
-redirect_uri='https://adityajoshi.vercel.app/'
-username = 'i614jvwy8vts1ve2ourut102w'
+client_id=''
+client_secret=''
+redirect_uri=''
+username = ''
 scope = 'playlist-modify-public'
 
 #Credentials to access the Spotify Music Data
