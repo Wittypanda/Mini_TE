@@ -4,3 +4,5 @@ https://developer.spotify.com/
 Use the Client ID,Client secret & your spoftify account code to activate the project.
 
 Wishing you luck !!!
+
+Please Note : The exiting dataset consists of 600+ entries of distinct songs upon expanding the dataset we can scale the model to cater to more larger data set.
